@@ -109,7 +109,7 @@
     "intensity_scalar": 0.0,
     "irradiation": "NM-306",
     "irradiation_level": "F",
-    "irradiation_position": 9,
+    "irradiation_position": 8,
     "isotopes": {
         "Ar36": {
             "detector": "L2(CDD)",
@@ -145,7 +145,7 @@
     "lithology_type": null,
     "longitude": 0.0,
     "mass_spectrometer": "felix",
-    "material": "Hornblende",
+    "material": "Biotite",
     "measurement": "felix_analysis340_60_CDD_center.py",
     "post_equilibration": "felix_pump_extraction_line.py",
     "post_measurement": "felix_pump_ms.py",
@@ -154,7 +154,7 @@
     "queue_conditionals_name": "",
     "repository_identifier": "LevyNeNevjurrassic",
     "rlocation": "",
-    "sample": "210719-2",
+    "sample": "190818-3",
     "source": {
         "emission": 799.609,
         "trap": 248.831
